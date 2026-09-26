@@ -1,6 +1,16 @@
-Esta es la primer versión estable del juego con un poco de contenido base.
+Hola!
+Estas son versiones estables o "Demos públicas" del juego con el contenido base hasta la fecha.
 
-Contiene física entre un pez y 6 tipos de partículas en tiempo real.
+Contenido del juego:
+  Física simulada entre Entidades y 6 tipos de partículas en tiempo real a alto framerate.
 
-Los .DLL son necesarios para que el juego se ejecute correctamente.
-El contenido en /Assets también, y puede ser modificado ya que son simples png .
+Controles:
+  Para mover al pez, usar WASD o el click derecho del ratón.
+
+Requisitos:
+  Los .DLL son necesarios para que el juego se ejecute correctamente.
+  El contenido en /Assets también, y puede ser modificado en tu carpeta ya que son simples png .
+
+Más información:
+  Continúa en pleno desarrollo, implementando funciones e ideas de a poquito.
+  Todo a mano en Visual Studio Code con C++ y Raylib.
